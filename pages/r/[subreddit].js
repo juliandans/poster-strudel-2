@@ -23,7 +23,7 @@ export default function Subreddit() {
               r/{subreddit}
             </Text>
             </Container>
-            <Container maxW="150%">
+            <Container maxW="150%" centerContent>
               <Posts subreddit={subreddit} count={30} />
             </Container>
         </ChakraProvider>

@@ -7,7 +7,6 @@ export default function Post(props) {
     <Box w="150%">
       <Box maxW="sm" borderWidth='1px' borderRadius='lg' overflow='hidden'>
       <Image src={props.image} alt={props.title}  />
-
       <Box p='6'>
       <Box
           mt='1'
