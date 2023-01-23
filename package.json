@@ -17,6 +17,7 @@
     "eslint-config-next": "13.1.4",
     "framer-motion": "^8.5.0",
     "next": "13.1.4",
+    "numeral": "^2.0.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "reddit-image-fetcher": "^2.0.11",

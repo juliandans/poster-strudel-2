@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
       <Center>
         <Text fontSize="7xl" fontWeight="extrabold" bgGradient='linear(to-l, #7928CA, #FF0080)' bgClip='text'>
-          POSTER STRÜDLE 2.0
+          POSTER STRÜDEL 2.0
         </Text>
       </Center>
     </ChakraProvider>
