@@ -21,7 +21,7 @@ export default function Posts(props) {
   }, [props.subreddit])
 
   return ( 
-    <SimpleGrid columns={3} spacing={100}>
+    <SimpleGrid columns={3} spacing={10}>
       {images.map(image => <Post key={image.id} {...image} />)}
     </SimpleGrid>
   )
